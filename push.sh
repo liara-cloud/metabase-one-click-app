@@ -1,1 +1,1 @@
-docker push liaracloud/metabase-one-click-app:v0.40.3
+docker push liaracloud/metabase-one-click-app:v0.41.0
